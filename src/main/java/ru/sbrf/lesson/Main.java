@@ -6,7 +6,7 @@ public class Main {
         System.out.println("3 * 4 = " + compositionIntAndLong(3, 4));
         System.out.println("max(3,4) = " + getMaxNumber(3, 4));
         System.out.println("Это \'A\' ? " + isCharA('A'));
-        System.out.println("Это \'3\' цифрв? " + isCharNumber('3'));
+        System.out.println("Это \'5\' цифрв? " + isCharNumber('3'));
         binary0to30();
         test_MAX_VALUE();
         System.out.println("(int)\'A\' = " + convertCarToInt('A'));
